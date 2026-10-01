@@ -1,10 +1,17 @@
-# Food Icon Pack: Free Classic Icons
+# Free Food Icons (SVG & PNG)
 
-**743+** outline food icons for recipes, menus, restaurant apps, and presentations.
+**743+** free outline **food icons** in **SVG** and **PNG** for recipes, menus, meal planners, restaurant apps, and presentations. Part of [Food Icon Pack](https://foodiconpack.com/) Classic (CC BY 4.0).
+
+## Quick start
+
+- **All icons:** clone this repo or download [`food-icon-pack-free-classic.zip`](https://github.com/michaelbollin/food-icons/releases/latest/download/food-icon-pack-free-classic.zip) from [Releases](https://github.com/michaelbollin/food-icons/releases).
+- **Single SVG:** `icons/ingredients/svg/apple.svg` (swap category and filename; see previews below).
+- **CDN (pinned tag):** `https://cdn.jsdelivr.net/gh/michaelbollin/food-icons@v1.0.0/icons/ingredients/svg/apple.svg`
+- **Search & preview:** [foodiconpack.com/free-food-icons](https://foodiconpack.com/free-food-icons)
 
 ## What's in this repo
 
-Static assets only. No app framework, no npm package.
+Static SVG and PNG assets only. No app framework, no npm package.
 
 <!-- readme-previews:start -->
 
@@ -780,13 +787,7 @@ Each pack has:
 - `png_medium/` (256px)
 - `png_big/` (512px)
 
-[`icons/meta.json`](icons/meta.json) lists sync time and counts.
-
-Previews above use every icon at 36px (`png_small`). Regenerate after syncing assets:
-
-```bash
-node scripts/generate-readme-previews.mjs
-```
+[`icons/meta.json`](icons/meta.json) lists sync time and counts. Previews above are 36px PNG; source **SVG** files are under each pack’s `svg/` folder.
 
 ## License
 
@@ -798,7 +799,7 @@ Icons by Food Icon Pack (https://foodiconpack.com), CC BY 4.0
 
 ## Download
 
-- **Zip:** [GitHub Releases](https://github.com/michaelbollin/food-icons/releases), file `food-icon-pack-free-classic.zip`
+- **Zip (SVG + PNG):** [Latest release](https://github.com/michaelbollin/food-icons/releases/latest/download/food-icon-pack-free-classic.zip)
 - **Browse & search:** [foodiconpack.com/free-food-icons](https://foodiconpack.com/free-food-icons)
 
 ## Contact
