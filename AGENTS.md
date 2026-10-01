@@ -7,3 +7,5 @@ This repository is the **free Classic** SVG/PNG tree only. For search, API-style
 - https://foodiconpack.com/agent-instructions.md
 
 Human browse: https://foodiconpack.com/free-food-icons
+
+React components (npm): install `food-icon-pack`, import from `food-icon-pack/react` (see repo `react/README.md`).

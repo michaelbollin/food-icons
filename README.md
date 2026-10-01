@@ -21,6 +21,23 @@ If you are wiring up **AI agents**, MCP tools, or scripts, use [foodiconpack.com
 
 Classic files in this repo are the same free CC BY 4.0 set; the site covers search and stable download URLs for automation.
 
+## React (Lucide-style)
+
+Install the [`food-icon-pack`](https://www.npmjs.com/package/food-icon-pack) npm package for **743 named React components** (tree-shakeable, `size` and `color` props):
+
+```bash
+npm install food-icon-pack
+```
+
+```tsx
+import { Apple, Pizza, BlackCoffee } from "food-icon-pack/react";
+
+<Apple size={32} color="currentColor" aria-label="Apple" />
+<Pizza size={24} className="text-orange-600" />
+```
+
+Regenerate components after syncing SVGs: `npm run build:react` (see [CONTRIBUTING.md](CONTRIBUTING.md)). Seven icons exist in more than one category; those exports are prefixed (`IngredientsBeer`, `BeveragesBeer`, etc.).
+
 ## What's in this repo
 
 Static SVG and PNG assets only. No app framework, no npm package.
@@ -813,7 +830,7 @@ Icons by Food Icon Pack (https://foodiconpack.com), CC BY 4.0
 
 - **Zip (SVG + PNG):** [Latest release](https://github.com/michaelbollin/food-icons/releases/latest/download/food-icon-pack-free-classic.zip)
 - **Figma Community:** [Free Classic Food Icons (CC BY 4.0)](https://www.figma.com/community/file/1677081129527302796)
-- **Browse & search:** [foodiconpack.com/free-food-icons](https://foodiconpack.com/free-food-icons)
+- **Browse & search:** [foodiconpack.com/free-food-icons](https://foodiconpack.com/free-food-icons) (links back to this repo)
 
 ## Contact
 

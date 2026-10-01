@@ -1,0 +1,50 @@
+{
+  "name": "food-icon-pack",
+  "version": "1.0.0",
+  "description": "743+ free Classic food icons as React components (SVG). CC BY 4.0.",
+  "license": "CC-BY-4.0",
+  "type": "module",
+  "sideEffects": false,
+  "homepage": "https://foodiconpack.com/free-food-icons",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelbollin/food-icons.git"
+  },
+  "bugs": {
+    "url": "https://foodiconpack.com/contact"
+  },
+  "keywords": [
+    "food",
+    "icons",
+    "svg",
+    "react",
+    "food-icons",
+    "outline-icons"
+  ],
+  "files": [
+    "react/dist",
+    "LICENSE",
+    "README.md"
+  ],
+  "exports": {
+    "./react": {
+      "types": "./react/dist/index.d.ts",
+      "import": "./react/dist/index.js",
+      "default": "./react/dist/index.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "peerDependencies": {
+    "react": ">=18"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.2",
+    "node-html-parser": "^7.0.1",
+    "react": "^19.2.0",
+    "typescript": "^5.9.3"
+  },
+  "scripts": {
+    "build:react": "node scripts/build-react.mjs && tsc -p react/tsconfig.json",
+    "prepublishOnly": "npm run build:react"
+  }
+}

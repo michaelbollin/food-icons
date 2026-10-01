@@ -6,6 +6,7 @@ After updating `icons/`:
 
 ```bash
 node scripts/generate-readme-previews.mjs
+npm run build:react
 node scripts/build-release-zip.mjs   # optional smoke test
 ```
 
