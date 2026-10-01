@@ -8,6 +8,18 @@
 - **Single SVG:** `icons/ingredients/svg/apple.svg` (swap category and filename; see previews below).
 - **CDN (pinned tag):** `https://cdn.jsdelivr.net/gh/michaelbollin/food-icons@v1.0.0/icons/ingredients/svg/apple.svg`
 - **Search & preview:** [foodiconpack.com/free-food-icons](https://foodiconpack.com/free-food-icons)
+- **Figma:** duplicate [Food Icon Pack: Free Classic Food Icons (CC BY 4.0)](https://www.figma.com/community/file/1677081129527302796) into your team library
+
+## For agents and automation
+
+If you are wiring up **AI agents**, MCP tools, or scripts, use [foodiconpack.com](https://foodiconpack.com/) discovery docs (search API URLs, attribution, free vs premium rules):
+
+- [SVG food icons for agents](https://foodiconpack.com/svg-food-icons-for-agents)
+- [`agents.json`](https://foodiconpack.com/agents.json)
+- [`llms.txt`](https://foodiconpack.com/llms.txt) · [`llms-full.txt`](https://foodiconpack.com/llms-full.txt)
+- [`agent-instructions.md`](https://foodiconpack.com/agent-instructions.md)
+
+Classic files in this repo are the same free CC BY 4.0 set; the site covers search and stable download URLs for automation.
 
 ## What's in this repo
 
@@ -800,6 +812,7 @@ Icons by Food Icon Pack (https://foodiconpack.com), CC BY 4.0
 ## Download
 
 - **Zip (SVG + PNG):** [Latest release](https://github.com/michaelbollin/food-icons/releases/latest/download/food-icon-pack-free-classic.zip)
+- **Figma Community:** [Free Classic Food Icons (CC BY 4.0)](https://www.figma.com/community/file/1677081129527302796)
 - **Browse & search:** [foodiconpack.com/free-food-icons](https://foodiconpack.com/free-food-icons)
 
 ## Contact
