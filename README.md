@@ -806,3 +806,20 @@ Icons by Food Icon Pack (https://foodiconpack.com), CC BY 4.0
 [foodiconpack.com/contact](https://foodiconpack.com/contact)
 
 Premium illustrated packs are sold on [foodiconpack.com](https://foodiconpack.com/) and are not part of this repository.
+
+<p>
+  <img src="https://foodiconpack.com/icons/cartoon/ingredients/png_medium/apple.png" width="36" alt="" />
+  <img src="https://foodiconpack.com/icons/pastel/ingredients/png_medium/avocado.png" width="36" alt="" />
+  <img src="https://foodiconpack.com/icons/bold/beverages/png_medium/espresso.png" width="36" alt="" />
+  <img src="https://foodiconpack.com/icons/pinky/dishes/png_medium/sushi.png" width="36" alt="" />
+  <img src="https://foodiconpack.com/icons/playful/dishes/png_medium/tacos.png" width="36" alt="" />
+  <img src="https://foodiconpack.com/icons/reggae/beverages/png_medium/beer.png" width="36" alt="" />
+  <img src="https://foodiconpack.com/icons/cartoon/beverages/png_medium/bubble_tea.png" width="36" alt="" />
+  <img src="https://foodiconpack.com/icons/pastel/dishes/png_medium/pizza.png" width="36" alt="" />
+  <img src="https://foodiconpack.com/icons/bold/utensils/png_medium/chef_knife.png" width="36" alt="" />
+  <img src="https://foodiconpack.com/icons/pinky/beverages/png_medium/mojito.png" width="36" alt="" />
+  <img src="https://foodiconpack.com/icons/playful/ingredients/png_medium/strawberry.png" width="36" alt="" />
+  <img src="https://foodiconpack.com/icons/reggae/dishes/png_medium/curry.png" width="36" alt="" />
+  <img src="https://foodiconpack.com/icons/polish-regional-dishes/png_medium/pierogi.png" width="36" alt="" />
+  <img src="https://foodiconpack.com/icons/german-regional-dishes/png_medium/currywurst.png" width="36" alt="" />
+</p>
