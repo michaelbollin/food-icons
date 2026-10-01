@@ -804,3 +804,5 @@ Icons by Food Icon Pack (https://foodiconpack.com), CC BY 4.0
 ## Contact
 
 [foodiconpack.com/contact](https://foodiconpack.com/contact)
+
+Premium illustrated packs are sold on [foodiconpack.com](https://foodiconpack.com/) and are not part of this repository.
