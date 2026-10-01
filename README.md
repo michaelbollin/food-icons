@@ -40,7 +40,7 @@ Regenerate components after syncing SVGs: `npm run build:react` (see [CONTRIBUTI
 
 ## What's in this repo
 
-Static SVG and PNG assets only. No app framework, no npm package.
+Free Classic **SVG and PNG** files under [`icons/`](icons/), plus an optional **[`food-icon-pack`](https://www.npmjs.com/package/food-icon-pack)** npm package with Lucide-style **React** components (`food-icon-pack/react`). No full app framework in this repo.
 
 <!-- readme-previews:start -->
 
